@@ -2,7 +2,7 @@
 //  ToDoListUITests.swift
 //  ToDoListUITests
 //
-//  Created by Angela Duca on 08/03/2020.
+//  Created by Cosmin Benegui on 08/03/2020.
 //  Copyright © 2020 Cosmin Benegui. All rights reserved.
 //
 
